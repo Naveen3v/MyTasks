@@ -1,0 +1,12 @@
+.tag-list {
+  list-style-type: none;
+  margin-left: 2%;
+}
+.tag-btn {
+  height: 50px;
+  width: 120px;
+  background-color: transparent;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid #f3aa4e;
+}

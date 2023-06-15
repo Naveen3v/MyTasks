@@ -1,0 +1,21 @@
+.task-list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.task-li-btn {
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  background-color: #f3aa4e;
+  color: black;
+  border: 0px;
+  margin-right: 3%;
+}
+.task-li-para {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: white;
+  text-align: left;
+}
